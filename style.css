@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color: rgb(53, 6, 6);
+    font-family: "Pacifico", cursive;
+    font-weight: 800;
+    font-style: normal;     
+}
+nav{
+    text-align: center;
+}
+ nav a{
+    text-decoration: none;
+    font-family: "Sevillana", cursive;
+    font-weight: 200;
+    font-style: normal;
+    color: rgb(53, 6, 6);
+    font-size: small;
+    text-transform: uppercase;
+}
+nav a:hover {
+    text-decoration: underline;
+    background-color: rgb(216, 145, 145);
+}
+main{
+    background-color: rgb(53, 6, 6);
+    color:rgb(250, 230, 230);
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 250%;
+    font-family: Helvetica, sans-serif;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+}
+
+h3 {
+    font-family:  Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+h3 p{  
+    font-weight: 400;
+    font-style: normal;
+}
+
+.features p{
+    font-family:cursive;
+    height:80px;
+    width:350px;
+}
+
+#div1{
+    display: inline-block;
+    margin-left: 100px;
+}
+#div2{
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+#div3{
+    display: inline-block;
+    margin-left: 100px;
+}
